@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Senal Shenuka 👋
 
-<!--
-**senalshenuka-dev/senalshenuka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineering student interested in building modern, scalable, and user-friendly applications.  
+I enjoy learning new technologies, solving problems, and developing software solutions that create real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc (Hons) in Computing (Software Engineering) 
+- 💻 Interested in Full-Stack Web & Mobile Application Development
+- 🌱 Currently learning React, Spring Boot, Node.js, Cloud & DevOps
+- 🚀 Goal: Become a professional Full-Stack Software Engineer
+- 📚 Always exploring new technologies and improving my skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,typescript" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,azure" />
+</p>
+
+---
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Currently Learning
+
+- ⚛️ React.js & React Native
+- ☕ Spring Boot
+- 🟢 Node.js & Express.js
+- 🗄️ PostgreSQL & MongoDB
+- ☁️ Cloud Technologies & DevOps
+- 🤖 AI Integration in Applications
+
+---
+
+## 🤝 Connect With Me
+
+<a href="mailto:senalshenuka.pro@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+⭐️ From [Senal Shenuka](https://github.com/YOUR_USERNAME)
