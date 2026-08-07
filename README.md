@@ -22,7 +22,7 @@ I enjoy learning new technologies, solving problems, and developing software sol
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
 ### Databases
@@ -32,20 +32,7 @@ I enjoy learning new technologies, solving problems, and developing software sol
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,azure" />
-</p>
-
----
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -70,4 +57,4 @@ I enjoy learning new technologies, solving problems, and developing software sol
 
 ---
 
-⭐️ From [Senal Shenuka](https://github.com/YOUR_USERNAME)
+⭐️ From [Senal Shenuka](https://github.com/senalshenuka-dev)
