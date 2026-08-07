@@ -55,6 +55,3 @@ I enjoy learning new technologies, solving problems, and developing software sol
 </a>
 </p>
 
----
-
-⭐️ From [Senal Shenuka](https://github.com/senalshenuka-dev)
