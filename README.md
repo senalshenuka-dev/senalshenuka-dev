@@ -1,8 +1,8 @@
 # Hi, I'm Senal Shenuka 👋
 
-## 👨‍💻 Software Engineering Student | Full-Stack Developer
+## 👨‍💻 Full-Stack Developer
 
-I'm a passionate Software Engineering student interested in building modern, scalable, and user-friendly applications.  
+I'm a passionate Software Developer interested in building modern, scalable, and user-friendly applications.  
 I enjoy learning new technologies, solving problems, and developing software solutions that create real-world impact.
 
 - 🎓 BSc (Hons) in Computing (Software Engineering) 
